@@ -1,0 +1,22 @@
+.header-container {
+  height: 88px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+
+  input {
+    height: 40px;
+    width: 100%;
+    max-width: 350px;
+    border-radius: 100px;
+    border: 1px solid #ccc;
+  }
+
+  img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+  }
+}
